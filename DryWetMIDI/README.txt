@@ -1,18 +1,3 @@
-# 2023_05_13_Fork_DryWetMIDI
-This repository is a  "fork" of DryWetMidi. 
-Please check the official release.
-
-I don't own or coded this code.
-
---------------------------------------
-
-## Source 
-
-https://assetstore.unity.com/packages/tools/audio/drywetmidi-222171
-https://github.com/melanchall/drywetmidi
-
-Thank to https://github.com/melanchall
-
 ------------------------------
 
 DryWetMIDI 6.1.4 by Melanchall
